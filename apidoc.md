@@ -6,7 +6,7 @@ List of available endpoints:
 
 - `GET /movies`
 - `POST /movies/add`
-- `PUT /movies/:id`
+- `PUT /movies/:id/edit`
 
 ### GET /movies
 #### Description
